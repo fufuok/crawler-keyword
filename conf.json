@@ -1,0 +1,27 @@
+{
+  "interval_min": 30,
+  "interval_max": 60,
+  "keywords": [
+    "GTA5",
+    "会议",
+    "节点",
+    "公告",
+    "模式",
+    "董事长",
+    "通知"
+  ],
+  "urls": [
+    {
+      "name": "网站一",
+      "url": "https://www.xunyou.com/"
+    },
+    {
+      "name": "网站二",
+      "url": "http://www.qbj.gov.cn/"
+    },
+    {
+      "name": "网站三",
+      "url": "https://cs.xunyou.com/html/282/"
+    }
+  ]
+}
